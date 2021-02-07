@@ -1,5 +1,5 @@
 # portfolio
-Portfolio for the course Computational Musicology <br/>
+Portfolio for the course Computational Musicology - Juliette de Waal (12348759) <br/>
 
 Some time ago I heard a song named 'a Fifth of Beethoven' by Walter Murphy, and I really liked it. It is a disco instrumental song based on Beethoven's Symphony No. 5. I thought using famous classical music pieces to create new songs of another genre is a really cool concept. So I did some research and discovered that there are many more famous songs that are based and inspired on a classical piece of music, also songs I know for a long time but never knew that they have a classical origin.<br/>
 My corpus includes classical pieces and their linked new songs. I have found 25 pairs, so 50 songs in total.<br/>
